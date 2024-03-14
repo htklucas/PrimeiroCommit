@@ -11,7 +11,7 @@ ex: (git help add)
 - `git clone` Esse comando pode clonar um repositório. Clonar é basicamente extrair uma cópia completa de todos os dados de um repositório para seu diretório.
 - `git add` Para adicionar algo que foi modificado ou criado, pode ser utilizado para adicionar arquivos.
 - `git rm` Para remover arquivos ou diretórios de um repositório.
-- `git commit` Para gravar as alterações do que foi modificado, adicionado ou removido.
+- `git commit` Para salvar as alterações do que foi modificado, adicionado ou removido.
 - `git status` Exibe uma lista dos arquivos e diretórios que foram modificados e adicionados no repositório.
 - `git diff` Pode ser utilizado para visualizar as alterações que ocorreu em cada um dos arquivos modificados.
 </h5>
