@@ -9,7 +9,7 @@ ex: (git help add)
 - `git config` Esse comando permite ver e atribuir variáveis de configuração do git, normalmente é utilizado quando você precisa iniciar a configuração do GIT ou para consultar quais são suas configurações atuais.
 - `git init` Este comando pode ser utilizado para criar um novo repositório do Git ou para transformar um diretório em um repositório do Git.
 - `git clone` Esse comando pode clonar um repositório. Clonar é basicamente extrair uma cópia completa de todos os dados de um repositório para seu diretório.
-- `git add` Para adicionar algo que foi modificado ou criado, pode ser utilizado para adicionar arquivos e diretórios.
+- `git add` Para adicionar algo que foi modificado ou criado, pode ser utilizado para adicionar arquivos.
 - `git rm` Para remover arquivos ou diretórios de um repositório.
 - `git commit` Para gravar as alterações do que foi modificado, adicionado ou removido.
 - `git status` Exibe uma lista dos arquivos e diretórios que foram modificados e adicionados no repositório.
